@@ -1,4 +1,4 @@
-
+﻿
 C:\Users\oaadmin.CRRCGC>ipconfig/all
 
 Windows IP 配置
@@ -43,3 +43,4 @@ Windows IP 配置
    自动配置已启用. . . . . . . . . . : 是
 
 C:\Users\oaadmin.CRRCGC>
+少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所少时诵诗书所所所所所所所所所所所所所所所所所所所所
